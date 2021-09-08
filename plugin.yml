@@ -1,0 +1,7 @@
+name: CustomMobs
+version: 1.0
+author: CalledCracki
+main: at.cracki.custommobs.main.CM
+api-version: 1.16
+
+commands:

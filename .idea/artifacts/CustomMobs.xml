@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomMobs">
+    <output-path>$PROJECT_DIR$/../1.16 Dev Server/plugins</output-path>
+    <root id="archive" name="CustomMobs.jar">
+      <element id="module-output" name="CustomMobs" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
