@@ -2,25 +2,28 @@
 
 ## CustomDinos v2.0
 
-_Dieses System stammt ursprünglich vom Dinoworld.de Netzwerk_
+_This system was originally from the Dinoworld.tv network_
+_It should serve to improve the current CustomMob of the network._
+**Disclaimer: The use of the system is free for everyone, everything in the code may be changed.**
 
 ***Changelog:***
 
-- :green_circle: **Dino Nametags werden jetzt permanent angezeigt.**
-- :green_circle: **Die HP der Dinos werden nun ebenfalls im Nametag angezeigt.**
-  - *Die HP Werte ändern sich, wenn Dinos Schaden nehmen.*
-- :green_circle: **Damage Indikatoren wurden hinzugefügt.**
-  - :green_circle: **Diese verändern sich, abhängig von der Schadensart.**
-    - *Grün bei Vergiftung, Orange bei Verbrennung, etc.*
-- :green_circle: **Dinos spawnen nur noch im, im SRC zuvor festgelegten Radius.**
-  - *Das Spawnintervall kann ebenfalls angepasst werden.*
-- :green_circle: **Dinos spawnen unabhängig von anderen Mobs.**
-  - *Somit ist es nicht mehr notwendig, die ursprünglichen Mobs aus dem Spawning zu entfernen.*
+- :green_circle: **Nametags are now permanently displayed.**
+- :green_circle: **The HP of the mobs are now also displayed in the nametag.**
+  - *HP values change when dinos take damage.*
+- :green_circle: **Damage indicators were added.**
+  - :green_circle: **These change, depending on the type of damage.**
+    - *Green for poisoning, orange for burning, etc.*
+- :green_circle: **Dinos spawn only in the radius previously defined in the SRC.**
+  - *The spawn interval can also be adjusted.*
+- :green_circle: **Dinos spawn independently from other mobs.**
+  - *Thus, it is no longer necessary to remove the original mobs from spawning.*
   
   
-  ***TO-DO Liste:***
+  ***TO-DO List:***
 
-- [x] Bilder zur readme.md hinzufügen.
-- [ ] Config.yml hinzufügen.
-- [ ] ItemDrops anpassen.
+- [x] Add images to readme.md.
+- [x] Translate Readme.md to english
+- [ ] Add Config.yml.
+- [ ] Adjust ItemDrops.
 
